@@ -1,8 +1,8 @@
-## Olá eu e chamo Alef Apolinário, estou iniciando a jornada em desenvolvimento Backend, fique à vontade para acessar os meus repositórios!!
+## Olá eu me chamo Alef Apolinário, estou iniciando a jornada em desenvolvimento Backend, fique à vontade para acessar os meus repositórios!!
  <div>
   <a href="https://github.com/AlefApolinario">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlefApolinario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefApolinario&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlefApolinario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefApolinario&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Alef-Java" height="100" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
